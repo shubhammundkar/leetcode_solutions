@@ -13,7 +13,6 @@ Given an array `nums`, return its running sum, where each element is the sum of 
 ```text
 Input:  nums = [1, 2, 3, 4]
 Output: [1, 3, 6, 10]
-```
 
 Explanation:
 - Index 0: `1`
