@@ -6,7 +6,7 @@
 // Visit nodes level by level, from left to right.
 //
 // Example:
-// Input: root = [3,9,20,null,null,15,7]
+// Input: root = [3,9,20,null,null,15,1047]
 //
 // Output: [[3],[9,20],[15,7]]
 //
