@@ -2,8 +2,8 @@
 #include<string>
 using namespace std;
 int main(){
-    string s="mynameisshubham";
-    cout<<s;
+    string s="Hello World";
+    cout<<s<<endl;
     int left=0;
     int right=s.size()-1;
     while(left<right){
@@ -11,5 +11,5 @@ int main(){
         left++;
         right--;
     }
-    cout<<s;
+    cout<<s<<endl;
 }
